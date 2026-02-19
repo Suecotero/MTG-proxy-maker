@@ -6,21 +6,21 @@ Simple program that uses a decklist to pull images from the web and makes a prin
 1.
   Make or download a deck from Moxfield.com. Save the text file as deck.txt The deck should be a simple card list, see example:
 
-1 Sol Ring
-1 Arcane Signet
-1 Atraxa, Praetors' Voice
-1 Command Tower
+  1 Sol Ring
+  1 Arcane Signet
+  1 Atraxa, Praetors' Voice
+  1 Command Tower
 
   
-1.2
+2.
   Place these in the same folder:
 
    - `proxy_maker.exe`
    - `deck.txt`
 
-4. Double-click `proxy_maker.exe`
+3. Double-click `proxy_maker.exe`
 
-5. The program will:
+4. The program will:
 
    - Download all card images
    - Create a `card_images` folder
